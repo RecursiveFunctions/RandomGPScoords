@@ -46,7 +46,7 @@ import webbrowser
 webbrowser.open('map.html')
 ```
 
-![[Pasted image 20231127224133.png]]
+![](map.png)
 
 Let's try a business and mark it with a symbol this time.
 ```python
@@ -75,9 +75,6 @@ all of that should come before the following (otherwise you'll be making changes
 m.save('map.html')
 webbrowser.open('map.html')
 ```
-
-![[Pasted image 20231127225025.png]]
-
 This added a red beer icon from font-awesome and if you click on it, the popup text will show
-![](Pasted image 20231127225214.png)
 
+![](show-popup.png)
