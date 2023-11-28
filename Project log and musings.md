@@ -79,5 +79,5 @@ webbrowser.open('map.html')
 ![[Pasted image 20231127225025.png]]
 
 This added a red beer icon from font-awesome and if you click on it, the popup text will show
-![[Pasted image 20231127225214.png]]
+[Pasted image 20231127225214.png](Pasted image 20231127225214.png)
 
